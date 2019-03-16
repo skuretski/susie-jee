@@ -3,7 +3,6 @@ module.exports = {
     title: `Susie Jee`,
     author: `Susie Jee`,
     description: `A blog for Susie and all her things`,
-    siteUrl: ``,
     social: {
       twitter: `TheSushiQ`,
     },

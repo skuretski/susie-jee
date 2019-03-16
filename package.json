@@ -58,6 +58,6 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "new post": "node ./scripts/new-post.js"
+    "new-post": "node ./scripts/new-post.js"
   }
 }
