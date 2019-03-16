@@ -1,0 +1,24 @@
+---
+slug: what-im-thankful-for-everyday-happy-thanksgiving-too
+date: 2012-11-22
+title: What I'm Thankful for Everyday! (Happy Thanksgiving too!)
+published: false
+---
+<a href="http://aladywithalamp.files.wordpress.com/2012/11/thanksgiving-peanuts-452773_1280_960.jpg"><img class="aligncenter size-medium wp-image-568" title="Peanuts Thanksgiving" src="http://aladywithalamp.files.wordpress.com/2012/11/thanksgiving-peanuts-452773_1280_960.jpg?w=300" alt="" width="300" height="225" /></a>
+
+Thanksgiving is here! Many of us around this time of year are even more thankful for our families, friends, and loved ones. It's a good day to remember what we are blessed with and look past the superficial and transient things in our lives. This year I am very thankful to my family, naturally, but this also includes my biological parents in Korea. I find adoption is a theme popping up around me lately, so I thought I'd share this on my blog. It's not nursing related, but how many times do we witness the unfolding of family dynamics at bedside, the good, bad, and the ugly? Family is an important, natural and pertinent part of our lives. Family should enrich the person you are to lead a more fulfilling life. I know for some people the ideals of family is harder to come by, but even the strange, selfish, and rotten eggs in a family can make you a better person whether you realize it or not. So this blog post is a would-be letter to my biological parents. And cheers to family!
+<blockquote>Dear 아버지 and 어머니,
+
+It seems like we may have so much to say to each other, but also no words for each other either. So many years have passed, and I’m sure there are days that pass when we have not thought of each other. But of course, there are the times that the curiosity gets the better of us. Some days I wonder if you’re living well. I, truly in my heart, hope that you are living good lives because of the sacrifice you made. I’m sure a life changing decision like adoption impacted you forever in favorable and unfavorable ways, as it has for me.
+
+As I said, adoption can impact you in negative ways. Any significant life decision has both good and bad consequences. I believe this to be true on both sides. Between feelings of abandonment, guilt, shame, selflessness, and love, these myriad of emotions are just unmistakably complicated. I would be lying if I said at some point in my life I did not feel abandoned, angry, and confused. Some days I feel that cloud of abandonment lurking over me, and it pains me to imagine myself in a lonely orphanage as a helpless baby. Also, there are times when it is difficult for me to trust people because of that ominous fog of abandonment. I think those types of feelings just go with the nature of adoption. I find the feeling is less prevalent the older and more mature I become.  I understand and empathize with your decision for adoption. I hope that you do not feel guilt or shame for your decision because I think you would be proud of the person I have become. I do not resent you; I do not blame you for any wrongdoings because there are no wrongdoings, and it is not my place to judge you.
+
+Do you ever wonder how a Korean baby fits into an American family? Well, it’s interesting. I hear the terms twinkie, banana, and white washed when people describe me. Frankly, it hurts my feelings. But yet there are times when I agree with them. Aren’t I Caucasian on the inside? However, those words still hurt me. It’s not my fault I am who I am. Why do we need labels? Can’t people look past race and appearance? Look at me for my heart and soul. Look at me for me.
+
+Onto the positive consequences! First, I want to say <b><i>thank you</i></b>! I speculate that life may have been difficult financially and emotionally if I stayed with you. I also know raising a child out of wedlock would have been difficult as well. I cannot even imagine how our lives would have been if we endured destitution and social ridicule. Second, I want to let you know that I am living a good life. I cannot describe with words what my family means to me. We have a love untouchable and bonds that cannot be broken. They have made me realize that family is not blood. Family is the people you keep in your heart, love, and trust. Family can be any race, culture, and age. People from all walks of life are capable of loving each other. Third, if you worry if my life has been hard, please don’t. Of course, life takes unexpected turns that are joyful, sorrowful and surprising, but I am living well and could not ask for anything more. I try hard every day to remind myself that I am blessed for the life that I have, the opportunities, and the love and people that surround me. I sincerely thank you for the decision you made.
+
+I hope you are well, healthy, and successful. Maybe one day our paths will cross. But for now, take care and find happiness.
+
+감사합니다,
+
+박지영</blockquote>
