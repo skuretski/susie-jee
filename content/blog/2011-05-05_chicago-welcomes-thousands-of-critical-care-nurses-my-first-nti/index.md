@@ -4,7 +4,7 @@ date: 2011-05-05
 title: Chicago welcomes thousands of critical care nurses - my first NTI
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2011/05/images1.jpeg"><img class="size-full wp-image-95" title="Stand Tall" src="http://aladywithalamp.files.wordpress.com/2011/05/images1.jpeg" alt="" width="225" height="225" /></a>
+<a href="https://aladywithalamp.files.wordpress.com/2011/05/images1.jpeg"><img class="size-full wp-image-95" title="Stand Tall" src="https://aladywithalamp.files.wordpress.com/2011/05/images1.jpeg" alt="" width="225" height="225" /></a>
 
 As I struggle to stay up so I can switch back to night shift hours, I thought I'd write about my first NTI experience as it's fresh in my mind. For all of you non-nurses, NTI, or National Teaching Institute, is the biggest annual critical care nurse gathering in the United States. Hosted by the American Association of Critical Care Nurses, NTI provides critical care nurses with sessions to improve or refresh skills, to present the latest best practices, and to celebrate nursing as a profession. These are just a few subjects at NTI. NTI is so huge that it spans for about a week just to cover all the broad range of topics. And of course, there are vendors, schools, and health systems to adore us with freebies, sale pitches, and recruitment prospects. And let me say, I looked like a bag lady coming home.
 

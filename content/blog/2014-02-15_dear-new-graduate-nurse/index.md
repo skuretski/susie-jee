@@ -4,7 +4,7 @@ date: 2014-02-15
 title: Dear New Graduate Nurse...
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2014/02/nh7.jpg"><img class="aligncenter size-medium wp-image-791" src="http://aladywithalamp.files.wordpress.com/2014/02/nh7.jpg?w=300" alt="NH7" width="300" height="175" /></a>
+<a href="https://aladywithalamp.files.wordpress.com/2014/02/nh7.jpg"><img class="aligncenter size-medium wp-image-791" src="https://aladywithalamp.files.wordpress.com/2014/02/nh7.jpg?w=300" alt="NH7" width="300" height="175" /></a>
 
 Dear new graduate nurse,
 

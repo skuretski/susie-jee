@@ -4,7 +4,7 @@ date: 2012-11-22
 title: What I'm Thankful for Everyday! (Happy Thanksgiving too!)
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2012/11/thanksgiving-peanuts-452773_1280_960.jpg"><img class="aligncenter size-medium wp-image-568" title="Peanuts Thanksgiving" src="http://aladywithalamp.files.wordpress.com/2012/11/thanksgiving-peanuts-452773_1280_960.jpg?w=300" alt="" width="300" height="225" /></a>
+<a href="https://aladywithalamp.files.wordpress.com/2012/11/thanksgiving-peanuts-452773_1280_960.jpg"><img class="aligncenter size-medium wp-image-568" title="Peanuts Thanksgiving" src="https://aladywithalamp.files.wordpress.com/2012/11/thanksgiving-peanuts-452773_1280_960.jpg?w=300" alt="" width="300" height="225" /></a>
 
 Thanksgiving is here! Many of us around this time of year are even more thankful for our families, friends, and loved ones. It's a good day to remember what we are blessed with and look past the superficial and transient things in our lives. This year I am very thankful to my family, naturally, but this also includes my biological parents in Korea. I find adoption is a theme popping up around me lately, so I thought I'd share this on my blog. It's not nursing related, but how many times do we witness the unfolding of family dynamics at bedside, the good, bad, and the ugly? Family is an important, natural and pertinent part of our lives. Family should enrich the person you are to lead a more fulfilling life. I know for some people the ideals of family is harder to come by, but even the strange, selfish, and rotten eggs in a family can make you a better person whether you realize it or not. So this blog post is a would-be letter to my biological parents. And cheers to family!
 <blockquote>Dear 아버지 and 어머니,

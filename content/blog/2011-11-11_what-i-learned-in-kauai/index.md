@@ -5,7 +5,7 @@ title: What I Learned in Kaua'i
 published: false
 ---
 
-<a href="http://aladywithalamp.files.wordpress.com/2011/11/kauai.jpg"><img class="alignnone size-full wp-image-118" title="Lumahai Beach" src="http://aladywithalamp.files.wordpress.com/2011/11/kauai.jpg" alt="" width="576" height="432" /></a>
+<a href="https://aladywithalamp.files.wordpress.com/2011/11/kauai.jpg"><img class="alignnone size-full wp-image-118" title="Lumahai Beach" src="https://aladywithalamp.files.wordpress.com/2011/11/kauai.jpg" alt="" width="576" height="432" /></a>
 
 My week trip to Kaua'i was great and relaxing. Also while there, I wanted to gain a sense of clarity. And what a perfect place to do so! So, here are the following things I concluded while in Hawai'i:
 <ul>

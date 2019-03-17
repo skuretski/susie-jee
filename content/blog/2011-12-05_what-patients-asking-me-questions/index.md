@@ -4,7 +4,7 @@ date: 2011-12-05
 title: What?! Patients asking ME questions?
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2011/12/alex-trebek-picture1.jpg"><img class="aligncenter size-full wp-image-414" title="Alex Trebek" src="http://aladywithalamp.files.wordpress.com/2011/12/alex-trebek-picture1.jpg" alt="" width="370" height="278" /></a>
+<a href="https://aladywithalamp.files.wordpress.com/2011/12/alex-trebek-picture1.jpg"><img class="aligncenter size-full wp-image-414" title="Alex Trebek" src="https://aladywithalamp.files.wordpress.com/2011/12/alex-trebek-picture1.jpg" alt="" width="370" height="278" /></a>
 
 When talking to people at work, they naturally inquire about my life. I guess I seem interesting to them, or they're just being polite. I would guess the latter for most with a select few actually being interested in my life. The usual questions that arise are: 1) Are you married? 2) Why did you pick nursing? 3) What ethnicity are you, if you don't mind me asking? 4) Do you think you'll stick with ICU nursing for a long time?
 

@@ -4,7 +4,7 @@ date: 2011-12-23
 title: Merry Christmas!
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2011/12/charlie-brown-christmas2.jpg"><img class="aligncenter size-full wp-image-438" title="charlie-brown-christmas" src="http://aladywithalamp.files.wordpress.com/2011/12/charlie-brown-christmas2.jpg" alt="" width="400" height="301" /></a>
+<a href="https://aladywithalamp.files.wordpress.com/2011/12/charlie-brown-christmas2.jpg"><img class="aligncenter size-full wp-image-438" title="charlie-brown-christmas" src="https://aladywithalamp.files.wordpress.com/2011/12/charlie-brown-christmas2.jpg" alt="" width="400" height="301" /></a>
 
 Since some of my posts lately have had a negative undertone, which I am not entirely fond of, I am writing an uplifting one. It is the holiday season, a time of giving, peace, and love. As I listen to Christmas carols, it warms me. I know it's kinda corny, but it's true. If you don't have a sense of the holiday spirit at all in the month of December, you <em>might</em> want to evaluate things and get that stick out of your ass. Even if you're not Christian, I think people generally have a more cheery spirit. Just my opinion and observations. I also think the month of December is a good time to look back at the past year and reflect a bit too.
 

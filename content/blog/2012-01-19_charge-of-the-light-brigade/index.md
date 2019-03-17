@@ -4,7 +4,7 @@ date: 2012-01-19
 title: Charge of the Light Brigade
 published: false
 ---
-<p style="text-align:center;"><a href="http://aladywithalamp.files.wordpress.com/2012/01/charge-of-the-light-brigade.jpg"><img class="size-full wp-image-450 aligncenter" title="Charge of the Light Brigade" src="http://aladywithalamp.files.wordpress.com/2012/01/charge-of-the-light-brigade.jpg" alt="" width="550" height="363" /></a></p>
+<p style="text-align:center;"><a href="https://aladywithalamp.files.wordpress.com/2012/01/charge-of-the-light-brigade.jpg"><img class="size-full wp-image-450 aligncenter" title="Charge of the Light Brigade" src="https://aladywithalamp.files.wordpress.com/2012/01/charge-of-the-light-brigade.jpg" alt="" width="550" height="363" /></a></p>
 <em>Forward, the Light Brigade!</em>
 <em> Was there a man dismayed?</em>
 <em> Not though the soldier knew</em>

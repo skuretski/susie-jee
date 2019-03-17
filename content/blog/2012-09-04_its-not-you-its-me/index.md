@@ -4,7 +4,7 @@ date: 2012-09-04
 title: It's not you, it's me
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2012/09/light-in-darkness1.jpg"><img class="aligncenter size-medium wp-image-539" title="Light in Darkness" src="http://aladywithalamp.files.wordpress.com/2012/09/light-in-darkness1.jpg?w=300" alt="" width="300" height="199" /></a><br/>
+<a href="https://aladywithalamp.files.wordpress.com/2012/09/light-in-darkness1.jpg"><img class="aligncenter size-medium wp-image-539" title="Light in Darkness" src="https://aladywithalamp.files.wordpress.com/2012/09/light-in-darkness1.jpg?w=300" alt="" width="300" height="199" /></a><br/>
 I think most people have realized that I'm not staying in nursing forever. It's not that I hate it. Although sometimes, I do just want to pound my head against a wall, and I feel like nursing and I are in a volatile relationship. We met and it was lustful; the future seemed bright, the world was ours. As time went on, we learned from each other and grew into comfort. We coexisted peacefully. However, as stressful events occurred, we acknowledged each other, but did not discuss it wholeheartedly. We kept the breadth on the inside, only discussing empirical things. As I've grown, my spectrum has changed; and now you seem to have a shadow cast over you. We've reached a crossroads. While remembering the happier times, we also see how much we've changed in that time. Some could say for the better, some could say for the worse. What happened? Why the change of heart?
 
 Well, I have some words for you nursing. Don't take these words lightly.

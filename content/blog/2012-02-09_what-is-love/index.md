@@ -4,7 +4,7 @@ date: 2012-02-09
 title: What is Love?
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2012/02/heart-anatomy3.gif"><img class="alignleft size-medium wp-image-466" title="Heart-Anatomy3" src="http://aladywithalamp.files.wordpress.com/2012/02/heart-anatomy3.gif?w=300" alt="" width="300" height="300" /></a>
+<a href="https://aladywithalamp.files.wordpress.com/2012/02/heart-anatomy3.gif"><img class="alignleft size-medium wp-image-466" title="Heart-Anatomy3" src="https://aladywithalamp.files.wordpress.com/2012/02/heart-anatomy3.gif?w=300" alt="" width="300" height="300" /></a>
 
 "Oh baby don't hurt me"...ha just kidding. But who doesn't like that song? Anyway, with Valentine's Day coming, I was thinking about love. I'm not the biggest fan of Valentine's Day, but I'm not the Valentine's Day Grinch either. But I figured I tossed the word "love" around a lot in this blog. And it is part of our everyday lives whether we realize it or not, whether we take it for granted or not. One of my favorite "chick flick" movies (and believe me there aren't that many) is <em>Love Actually</em>. This movie captures different forms of love, not just the romantic love people tend to think of first. If you look at your life and the people in it, think of the different types of love you experience. The love between you and your grandparents, parents, siblings, significant others, extended family, and friends are all different shapes of love, but the origin remains true. And I wanted to dissect the origin of that. Love may seem simple, but such a thing, emotion, and action is far from simple. And it causes us to do some outrageous things and makes us human.
 

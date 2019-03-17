@@ -4,7 +4,7 @@ date: 2013-04-03
 title: Carpe Diem? Load of Crap or Good Mantra? (Hire me Google)
 published: false
 ---
-<a href="http://aladywithalamp.files.wordpress.com/2013/04/1338442265182875.jpg"><img class="size-medium wp-image-664 alignleft" src="http://aladywithalamp.files.wordpress.com/2013/04/1338442265182875.jpg?w=300" alt="YOLO" width="300" height="200" /></a><br/>
+<a href="https://aladywithalamp.files.wordpress.com/2013/04/1338442265182875.jpg"><img class="size-medium wp-image-664 alignleft" src="https://aladywithalamp.files.wordpress.com/2013/04/1338442265182875.jpg?w=300" alt="YOLO" width="300" height="200" /></a><br/>
 It's been a long while (again) since I've written. Mostly because (a) I don't want to reiterate ideas or themes that I've written about (b) I don't want to sound like a pessimistic jerkface since ideas that have been popping up seem to be less-than-optimistic (c) The inspiration has been lack-luster, and the stress level of school, work, and life has multiplied.
 
 However, with the onset of spring and new things beginning again, I might have found a more illustrious topic to talk about besides things such as how Medicare owns my soul, patients own MY patience at times, and school owns my aspirations to be a pro-gamer.
