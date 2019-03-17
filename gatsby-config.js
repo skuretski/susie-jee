@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/susie-jee-1000x252.png`,
+        icon: `content/assets/susie-jee-1200x630.png`,
       },
     },
     `gatsby-plugin-offline`,
