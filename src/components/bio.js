@@ -25,23 +25,24 @@ function Bio() {
             }}
           >
             <Image
-              fixed={data.avatar.childImageSharp.fixed}
+              fluid={data.avatar.childImageSharp.fluid}
               alt={author}
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
-                borderRadius: `100%`,
+                borderRadius: `50%`,
+                minWidth: 150,
+                minHeight: 150
               }}
               imgStyle={{
-                borderRadius: `50%`,
+                height: 'inherit'
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Chicago.<br/>
+              Written by <strong>{author}</strong> | A software engineer, nurse, and dachshund owner<br/>
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`} target="_blank">
-                You should follow her on Twitter
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
+                Follow her on Twitter
               </a>
             </p>
           </div>
@@ -53,13 +54,13 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/susie.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/susie.png/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50) {
-          ...GatsbyImageSharpFixed
+        fluid(maxWidth: 150, maxHeight: 150, quality: 100) {
+          ...GatsbyImageSharpFluid
         }
       }
-    }
+    },
     site {
       siteMetadata {
         author
