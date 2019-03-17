@@ -49,7 +49,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: `og:image`,
-          content: `https://i.imgur.com/RBTL5CP.png`
+          content: `${favicon}`
         },
         {
           property: `og:description`,
