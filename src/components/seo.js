@@ -62,7 +62,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: `og:url`,
-          conteont: `https://www.susiejee.com`
+          content: `https://www.susiejee.com`
         },
         {
           property: `fb:app_id`,
