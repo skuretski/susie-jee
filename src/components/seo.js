@@ -50,7 +50,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: `og:image`,
-          content: `${image}`
+          content: `https://imgur.com/hT9MpMw`
         },
         {
           property: `og:description`,
