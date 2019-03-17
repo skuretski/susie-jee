@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Susie Jee`,
+    title: `SusieJee`,
     author: `Susie Jee`,
-    description: `A blog for Susie and all her things`,
+    description: `A personal site and blog for Susie and all her things`,
     siteUrl: `https://www.susiejee.com/`,
     social: {
       twitter: `TheSushiQ`,

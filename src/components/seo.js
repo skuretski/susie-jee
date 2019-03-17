@@ -48,12 +48,20 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: title,
         },
         {
+          property: `og:image`,
+          content: `https://i.imgur.com/RBTL5CP.png`
+        },
+        {
           property: `og:description`,
           content: metaDescription,
         },
         {
           property: `og:type`,
           content: `website`,
+        },
+        {
+          property: `fb:app_id`,
+          content: `969880006488000`
         },
         {
           name: `twitter:card`,
