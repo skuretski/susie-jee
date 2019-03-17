@@ -2,7 +2,7 @@ const slugify = require('slug');
 const fs = require('fs');
 const dateFns = require('date-fns');
 const title = process.argv[2];
-const date = process.argv[3];
+let date = process.argv[3];
 
 if(!title) {
 	throw "A title is required";
