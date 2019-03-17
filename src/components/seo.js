@@ -50,7 +50,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           property: `og:image`,
-          content: `https://imgur.com/hT9MpMw`
+          content: `https://imgur.com/hT9MpMw.png`
         },
         {
           property: `og:description`,
@@ -59,6 +59,10 @@ function SEO({ description, lang, meta, keywords, title }) {
         {
           property: `og:type`,
           content: `website`,
+        },
+        {
+          property: `og:url`,
+          conteont: `https://www.susiejee.com`
         },
         {
           property: `fb:app_id`,
