@@ -36,7 +36,7 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <Bio />
-
+        
         <ul
           style={{
             display: `flex`,
@@ -84,6 +84,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        category
       }
     }
   }

@@ -32,7 +32,20 @@ class BlogIndex extends React.Component {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
+              <div><small>{node.frontmatter.date}</small></div>
+              <div style={{
+                backgroundColor: `#e4e4e4`,
+                borderRadius: `2em`,
+                display: `flex`,
+                width: `fit-content`,
+                alignItems: `center`,
+                paddingLeft: `0.5em`,
+                paddingRight: `0.5em`
+                }}>
+                <small style={{color: `#e76666`, fontWeight: `bold`}}>
+                  <em>{node.frontmatter.category}</em>
+                </small>
+              </div>
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
@@ -66,6 +79,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            category
           }
         }
       }
