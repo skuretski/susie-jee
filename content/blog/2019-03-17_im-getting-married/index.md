@@ -3,7 +3,7 @@ slug: im-getting-married
 date: 2019-03-17
 title: I'm getting married!
 published: false
-category: "Life"
+category: Life
 ---
 
 This coming Saturday I'm getting married! We got engaged in May 2018. We originally planned a destination wedding in Jamaica in April 2020. 
