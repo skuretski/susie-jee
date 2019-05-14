@@ -30,7 +30,7 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                borderRadius: `50%`,
+                borderRadius: `5%`,
                 minWidth: 150,
                 minHeight: 150
               }}
@@ -39,7 +39,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> | A software engineer, nurse, and dachshund owner<br/>
+              Written by <strong>{author}</strong> | A software engineer, nurse, and dachshund mom<br/>
               {` `}
               <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
                 Follow her on Twitter
