@@ -2,7 +2,7 @@
 slug: ragequit
 date: 2010-11-16
 title: Ragequit!
-published: false
+published: true
 ---
 I know it's been a longggg time since I've posted anything, but I've been uninspired and frankly disenchanted with nursing. Most of my posts have been fairly optimistic and positive, so I wanted to continue that trend. Unfortunately, I cannot continue it. At least for now. This post summarizes my path to nursing and the present state of my career with the help of video game analogies. It should be funny, satirical, but sadly truthful at the same time. Minus the part about ragequitting. I don't do that.
 

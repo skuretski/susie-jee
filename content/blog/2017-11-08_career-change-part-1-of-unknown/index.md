@@ -2,7 +2,7 @@
 slug: career-change-part-1-of-unknown
 date: 2017-11-08
 title: Career Change (Part 1 of Unknown)
-published: false
+published: true
 ---
 
 A lot of people ask me, "How did you do such a drastic career change?" First, I still feel like I have a foot in nursing while having a foot in software. Sometimes, I even feel like I'm on a long vacation from bedside nursing. Maybe one day I'll look back and think of "Remember when I pushed Fentanyl like a fiend, and could draw up Etomidate in the blink of an eye?" At this early stage of career switching, I'm going to share what helped me through this stressful time of my life.

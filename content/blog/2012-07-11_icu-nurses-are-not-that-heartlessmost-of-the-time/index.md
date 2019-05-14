@@ -2,7 +2,7 @@
 slug: icu-nurses-are-not-that-heartlessmost-of-the-time
 date: 2012-07-11
 title: ICU nurses are not that heartless...most of the time
-published: false
+published: true
 ---
 
 Often times I'll have people say to me, "You're much stronger than me. I could not be an ICU nurse. I don't know how you do it." Sure, blood and guts are not some people's forte, and dealing with life and death are difficult. However, that doesn't mean that ICU nurses are immune to everything. We definitely do get grossed out by things, and we do feel emotional at times. We are a strong breed, but chances are on the inside we feel sadness, loss, and grief just like everyone else.

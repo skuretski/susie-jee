@@ -2,7 +2,7 @@
 slug: what-is-love
 date: 2012-02-09
 title: What is Love?
-published: false
+published: true
 ---
 <a href="https://aladywithalamp.files.wordpress.com/2012/02/heart-anatomy3.gif"><img class="alignleft size-medium wp-image-466" title="Heart-Anatomy3" src="https://aladywithalamp.files.wordpress.com/2012/02/heart-anatomy3.gif?w=300" alt="" width="300" height="300" /></a>
 

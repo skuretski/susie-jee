@@ -2,7 +2,7 @@
 slug: nurses-week
 date: 2017-05-05
 title: Nurses Week!
-published: false
+published: true
 ---
 I haven't written in quite some time, probably because I've been writing in C++ and JavaScript. School's got me like an ICU nurse tripled with 3 vents with hourly glucose checks, labile blood pressures, lactulose, and an overly attentive family... and charge.
 

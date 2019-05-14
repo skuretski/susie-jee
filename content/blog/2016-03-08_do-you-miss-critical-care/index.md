@@ -2,7 +2,7 @@
 slug: do-you-miss-critical-care
 date: 2016-03-08
 title: Do you miss critical care?
-published: false
+published: true
 ---
 
 This blog is not completely in asystole! I took a break from my nursing blog because frankly there wasn't much to write about, and I didn't have much inspiration. I could write about old war stories, the future of health care, or how being a nurse is special, but I'm going to bypass some of that (with a LIMA?) for now.

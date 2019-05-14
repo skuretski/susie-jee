@@ -2,7 +2,7 @@
 slug: woo-a-bsn-now-what
 date: 2010-05-23
 title: Woo a BSN, now what?
-published: false
+published: true
 ---
 
 ###May 2008

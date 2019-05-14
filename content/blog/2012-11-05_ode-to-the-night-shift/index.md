@@ -2,7 +2,7 @@
 slug: ode-to-the-night-shift
 date: 2012-11-05
 title: Ode to the Night Shift
-published: false
+published: true
 ---
 
 Ode to the Night Shift

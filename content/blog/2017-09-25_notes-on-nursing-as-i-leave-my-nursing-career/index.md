@@ -2,7 +2,7 @@
 slug: notes-on-nursing-as-i-leave-my-nursing-career
 date: 2017-09-25
 title: Notes on Nursing (as I leave my nursing career)
-published: false
+published: true
 ---
 <img class=" size-full wp-image-1528 aligncenter" src="https://aladywithalamp.files.wordpress.com/2017/09/a3486d2e56d85da626df79c03586cd56-peter-pan-peter-otoole.jpg" alt="a3486d2e56d85da626df79c03586cd56--peter-pan--peter-otoole" width="500" height="357" />
 

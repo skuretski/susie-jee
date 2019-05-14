@@ -2,7 +2,7 @@
 slug: im-getting-married
 date: 2019-03-17
 title: I'm getting married!
-published: false
+published: true
 category: Life
 ---
 

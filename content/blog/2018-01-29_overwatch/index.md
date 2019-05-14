@@ -2,13 +2,14 @@
 slug: overwatch
 date: 2018-01-29
 title: Overwatch
-published: false
+published: true
 ---
 
-<img class=" size-full wp-image-1694 aligncenter" src="https://aladywithalamp.files.wordpress.com/2018/01/card-overwatch-7eff92e1257149aa.jpg" alt="card-overwatch-7eff92e1257149aa" width="432" height="360" /><br/>
+This is my first post about games! I figured I should write about what occupies most of my game time. Currently, it's <a href="https://playoverwatch.com/en-us/" target="_blank" rel="noopener">Overwatch</a> by <a href="https://www.blizzard.com/en-us/" target="_blank" rel="noopener">Blizzard Entertainment</a>. I've been playing Overwatch since its announcement at BlizzCon 2014, where I stood in line with other attendees to play until they kicked us out of the con.
+
+<img style="margin-right: auto; margin-left: auto; display: block; margin-bottom: 0;" src="https://aladywithalamp.files.wordpress.com/2018/01/card-overwatch-7eff92e1257149aa.jpg" alt="card-overwatch-7eff92e1257149aa" width="432" height="360" />
 By Blizzard Ent. <a href="https://playoverwatch.com/en-us/">https://playoverwatch.com/en-us/</a>
 
-This is my first post about games! I figured I should write about what occupies most of my game time. Currently, it's <a href="https://playoverwatch.com/en-us/" target="_blank" rel="noopener">Overwatch</a> by <a href="https://www.blizzard.com/en-us/" target="_blank" rel="noopener">Blizzard Entertainment</a>. I've been playing Overwatch since its announcement at BlizzCon 2014, where I stood in line with other attendees to play until they kicked us out of the con.
 <h2>The Beginning</h2>
 What first attracted me to Overwatch was the wonderful artistry. Of course, Blizzard's Pixar-like cinematic reveal left me ooo-ing and ahh-ing. Such a magical universe danced before my eyes. Characters of all shapes, sizes, colors, and backgrounds could save the world. Maps were intricately detailed and modeled after cities all over the world. Typically, I quickly glanced at first-person-shooters, eye-rolled, and then looked away. Overwatch, while classified as a first-person-shooter, is so much more than that. With the artistry and slogans like "Heroes never die" and "Join Overwatch. We need your support!", I felt a strong urge to explore this universe.
 <h2>The Play</h2>

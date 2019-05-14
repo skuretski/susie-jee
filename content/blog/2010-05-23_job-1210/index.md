@@ -2,7 +2,7 @@
 slug: job-1210
 date: 2010-05-23
 title: Job 12:10
-published: false
+published: true
 ---
 ###Job 12:10 (ESV)
 

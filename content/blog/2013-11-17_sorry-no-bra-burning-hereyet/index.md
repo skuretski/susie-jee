@@ -2,7 +2,7 @@
 slug: sorry-no-bra-burning-hereyet
 date: 2013-11-17
 title: Sorry, no bra burning here...yet?
-published: false
+published: true
 ---
 
 <a href="https://aladywithalamp.files.wordpress.com/2013/11/femalesworkplace.jpg"><img class="alignleft size-medium wp-image-747" alt="" src="https://aladywithalamp.files.wordpress.com/2013/11/femalesworkplace.jpg?w=300" width="300" height="292" /></a><br/>I'm going to first start out this post with this clip from the movie <em>Meet the Parents</em>. This scene probably was meant to be funny and uncomfortable in a satirical way, but in the end, the scene just creates injustices for both females and males.

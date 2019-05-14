@@ -2,7 +2,7 @@
 slug: the-gettsburg-address-turns-150-years-old-today
 date: 2013-11-19
 title: The Gettsburg Address Turns 150 years-old Today
-published: false
+published: true
 ---
 
 Today marks the 150th anniversary of the Gettysburg Address by President Abraham Lincoln. In lieu of my recent post, I am very happy to share this link from NPR news (thanks NPR!). It just has audio of the address spoken by multiple people. Nothing too fancy. Undeniably, the Gettysburg Address can stand on its own quite well!

@@ -2,7 +2,7 @@
 slug: what-needs-to-change-in-healthcare
 date: 2016-03-21
 title: What Needs to Change in Healthcare
-published: false
+published: true
 ---
 
 <img class=" size-full wp-image-1026 aligncenter" src="https://aladywithalamp.files.wordpress.com/2016/03/nurse-to-patient-atio.jpg" alt="nurse-to-patient-atio" width="254" height="199" />

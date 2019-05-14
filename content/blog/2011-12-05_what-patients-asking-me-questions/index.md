@@ -2,7 +2,7 @@
 slug: what-patients-asking-me-questions
 date: 2011-12-05
 title: What?! Patients asking ME questions?
-published: false
+published: true
 ---
 <a href="https://aladywithalamp.files.wordpress.com/2011/12/alex-trebek-picture1.jpg"><img class="aligncenter size-full wp-image-414" title="Alex Trebek" src="https://aladywithalamp.files.wordpress.com/2011/12/alex-trebek-picture1.jpg" alt="" width="370" height="278" /></a>
 

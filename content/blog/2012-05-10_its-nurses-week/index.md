@@ -2,7 +2,7 @@
 slug: its-nurses-week
 date: 2012-05-10
 title: It's Nurses Week!
-published: false
+published: true
 ---
 <a href="https://aladywithalamp.files.wordpress.com/2012/05/nurse1.gif"><img class="wp-image-491 alignright" title="Nursing" src="https://aladywithalamp.files.wordpress.com/2012/05/nurse1.gif?w=300" alt="" width="300" height="263" /></a><br/>
 It nurse's week! Therefore I'm going to post things about nursing and what we encounter day in and day out. I warn you. My judgement of what is acceptable to say in public may be clouded. I've been doing this for four years and have a very small layer of salt on me from the harsh seas.

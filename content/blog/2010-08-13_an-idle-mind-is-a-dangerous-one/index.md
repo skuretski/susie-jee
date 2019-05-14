@@ -2,7 +2,7 @@
 slug: an-idle-mind-is-a-dangerous-one
 date: 2010-08-13
 title: An Idle Mind is a Dangerous One
-published: false
+published: true
 ---
 An idle mind is a dangerous one.
 

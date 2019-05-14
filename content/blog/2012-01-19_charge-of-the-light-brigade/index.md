@@ -2,7 +2,7 @@
 slug: charge-of-the-light-brigade
 date: 2012-01-19
 title: Charge of the Light Brigade
-published: false
+published: true
 ---
 <p style="text-align:center;"><a href="https://aladywithalamp.files.wordpress.com/2012/01/charge-of-the-light-brigade.jpg"><img class="size-full wp-image-450 aligncenter" title="Charge of the Light Brigade" src="https://aladywithalamp.files.wordpress.com/2012/01/charge-of-the-light-brigade.jpg" alt="" width="550" height="363" /></a></p>
 <em>Forward, the Light Brigade!</em>

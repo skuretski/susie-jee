@@ -2,7 +2,7 @@
 slug: give-me-some-moonshine
 date: 2011-01-31
 title: Give me some moonshine!
-published: false
+published: true
 ---
 Ok, I know I'm HORRIBLE at writing blog posts in a timely fashion. Horrible might actually be an understatement. Anyway, today's post is covering alcohol. Controversial topic eh? American society tends to accept alcohol as a "drug," right next to caffeine. It's acceptable to drink heavily in social settings at a young age, even underage, and throughout adulthood. COLLEGE, right? Even to be a weekend warrior seems okay. It's just the weekends. No harm, no foul. Well, not exactly.
 

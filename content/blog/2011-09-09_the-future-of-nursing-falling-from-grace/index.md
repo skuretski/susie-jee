@@ -2,7 +2,7 @@
 slug: the-future-of-nursing-falling-from-grace
 date: 2011-09-09
 title: The Future of Nursing - Falling from Grace?
-published: false
+published: true
 ---
 Let me just dive into this post full speed ahead. If you're a bedside nurse these days, I'm sure you're wondering how nursing will be in 5-10 years. Between the economic recession and health disparities, America is facing unprecedented healthcare trends, which at the current state, are downhill trends. People are getting sicker. While the government is sharpening its eagle eye on Medicare, Medicaid, and insurance companies, we healthcare workers struggle to keep up mentally and physically. If you work at any healthcare institution, you hear words like <strong>reimbursement, JCAHO, HCAHPS, CMS, protocol, </strong>to list a few. What a flurry of confusion. "You didn't chart that you gave a piece of paper about smoking cessation; therefore, your hospital will NOT get reimbursed." Sounds crazy, right? Well, these things happen all the time. Then, if the hospital isn't getting reimbursed, where do you think the cuts will be made? If you guessed cutting staff as one way, you win the $1 prize (we're poor, remember?).
 

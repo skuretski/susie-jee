@@ -2,7 +2,7 @@
 slug: im-glad-im-not-a-meatpacker-in-chicago
 date: 2010-07-07
 title: I'm glad I'm not a meatpacker in Chicago
-published: false
+published: true
 ---
 One of my favorite books of all time is <em>The Jungle</em> by Upton Sinclair. I first encountered this book in high school and since then I have re-read it numerous times. I enjoy the rally of Chicagoan victims of capitalism and corruption, hoping for equality and rights. Despite the rally, <em>The Jungle</em> is definitely a sad story, not for the feeble-hearted. The protagonist, Jurgis, attempts to establish a prosperous home in America for his family from Lithuania. The immigrant begins as an honorable, loving, and true man. As time wore on, he befell to drinking, swindling, and lying in order to survive in the jungle of the Chicago economy. His natural animalistic instincts take precedent over morals and goodness; survival is greater than all, even family...
 

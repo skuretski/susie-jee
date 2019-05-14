@@ -2,7 +2,7 @@
 slug: goodbye-critical-care
 date: 2014-07-20
 title: Goodbye Critical Care
-published: false
+published: true
 ---
 <img class="alignleft size-medium wp-image-798" src="https://aladywithalamp.files.wordpress.com/2014/07/83fcb71f8db5535d178a943793a0b3a0.jpg?w=300" alt="ICU" width="300" height="210"/>
 

@@ -2,7 +2,7 @@
 slug: the-one-that-sticks-to-your-heart
 date: 2016-06-02
 title: The one that sticks to your heart
-published: false
+published: true
 ---
 
 <img class="text-align: center; size-full wp-image-1150" src="https://aladywithalamp.files.wordpress.com/2016/06/care-for-your-heart.jpg" alt="care for your heart" width="500" height="300" />

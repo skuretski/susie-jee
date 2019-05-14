@@ -2,7 +2,7 @@
 slug: what-i-learned-in-kauai
 date: 2011-11-11
 title: What I Learned in Kaua'i
-published: false
+published: true
 ---
 
 <a href="https://aladywithalamp.files.wordpress.com/2011/11/kauai.jpg"><img class="alignnone size-full wp-image-118" title="Lumahai Beach" src="https://aladywithalamp.files.wordpress.com/2011/11/kauai.jpg" alt="" width="576" height="432" /></a>

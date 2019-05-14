@@ -2,7 +2,7 @@
 slug: merry-christmas
 date: 2011-12-23
 title: Merry Christmas!
-published: false
+published: true
 ---
 <a href="https://aladywithalamp.files.wordpress.com/2011/12/charlie-brown-christmas2.jpg"><img class="aligncenter size-full wp-image-438" title="charlie-brown-christmas" src="https://aladywithalamp.files.wordpress.com/2011/12/charlie-brown-christmas2.jpg" alt="" width="400" height="301" /></a>
 

@@ -2,7 +2,7 @@
 slug: trust-me-im-a-nurse
 date: 2010-06-20
 title: Trust me, I'm a nurse!
-published: false
+published: true
 ---
 You roll through the doors of the emergency room. The paramedics are rattling off your vital signs and situation. Oh, the pain in your chest....crushing, burning, heavy. You overhear your blood pressure is 210/102. Fearful thoughts race through your head. What is going to happen? Am I going to die right here and now? Why now? Why me? It's so hard to concentrate with the pain. Then, the nurse bombards you with questions about your past medical history and current medications. Through the excitement and pain, you manage to answer the questions as best you can. After this, you're given an IV, a sublingual nitro, and some morphine. Ahh the pain is slightly relieved. After this, doctors and nurses dictate instructions on the "plan." You agree; they're the experts right?
 

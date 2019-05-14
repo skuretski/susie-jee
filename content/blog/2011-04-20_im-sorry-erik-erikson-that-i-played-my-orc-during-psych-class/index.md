@@ -2,7 +2,7 @@
 slug: im-sorry-erik-erikson-that-i-played-my-orc-during-psych-class
 date: 2011-04-20
 title: I'm sorry Erik Erikson that I played my orc during psych class
-published: false
+published: true
 ---
 I remember sitting through my required psych class for nursing thinking that this was the most boring class in the world. Maybe it was the professor, or maybe food coma was setting in because the class was after lunch. Either way, I usually spent my time in that class playing Warcraft or struggling to keep my already small eyes open. I was eighteen; the world I pondered consisted of GPA, extracurricular activities, and friends. Of course, the "older and wiser" me doesn't think that psych class was completely bullshit in hindsight. One particular topic from that class that my mind wanders to a lot is Erikson's stages of psychosocial development. The bulk of the stages cover infancy to childhood where much of our psychosocial behavior is shaped. I'll share the 8 stages for reference.
 

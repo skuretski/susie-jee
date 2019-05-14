@@ -2,7 +2,7 @@
 slug: carpe-diem-load-of-crap-or-good-mantra-hire-me-google
 date: 2013-04-03
 title: Carpe Diem? Load of Crap or Good Mantra? (Hire me Google)
-published: false
+published: true
 ---
 <a href="https://aladywithalamp.files.wordpress.com/2013/04/1338442265182875.jpg"><img class="size-medium wp-image-664 alignleft" src="https://aladywithalamp.files.wordpress.com/2013/04/1338442265182875.jpg?w=300" alt="YOLO" width="300" height="200" /></a><br/>
 It's been a long while (again) since I've written. Mostly because (a) I don't want to reiterate ideas or themes that I've written about (b) I don't want to sound like a pessimistic jerkface since ideas that have been popping up seem to be less-than-optimistic (c) The inspiration has been lack-luster, and the stress level of school, work, and life has multiplied.

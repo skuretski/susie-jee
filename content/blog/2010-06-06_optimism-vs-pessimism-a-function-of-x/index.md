@@ -2,7 +2,7 @@
 slug: optimism-vs-pessimism-a-function-of-x
 date: 2010-06-06
 title: Optimism vs. Pessimism - A function of X?
-published: false
+published: true
 ---
 
 Is the glass half empty or half full? Most people can recognize their tendencies of being optimistic and pessimistic; some even distinctly categorize themselves as an optimist or a pessimist. A lot of times at the bedside, we truly want to be optimistic for our patients and families, but may have difficulty showing it, especially when family members have lost hope or when our empirical data, such as lab work, is trending the wrong way. So how can we maintain optimism while also being realistic? And is there such a thing as being overly optimistic, which can give a sense of false hope and security?

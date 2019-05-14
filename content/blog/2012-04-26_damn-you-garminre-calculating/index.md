@@ -2,7 +2,7 @@
 slug: damn-you-garminre-calculating
 date: 2012-04-26
 title: Damn you Garmin...re-calculating?
-published: false
+published: true
 ---
 
 There are things we cannot explain. Our human mind tries to rationalize things that may not seem clear to us. Sometimes that uncertainty tests our resolve. However, that uncertainty can instill fear, and fear can be immobilizing. Defense mechanisms that we have developed over the years from past experiences can raise up alarms and tells us to take the path of safety and security. Of course, these defense mechanisms are important to human survival. Without learning from past experiences, we would just keep beating our heads against the same wall, making the same mistakes. On the contrary, can we determine when these defense mechanisms are overly active? Is there a time in which we are too cautious, too afraid to make ourselves take chances?

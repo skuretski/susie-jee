@@ -2,7 +2,7 @@
 slug: chicago-welcomes-thousands-of-critical-care-nurses-my-first-nti
 date: 2011-05-05
 title: Chicago welcomes thousands of critical care nurses - my first NTI
-published: false
+published: true
 ---
 <a href="https://aladywithalamp.files.wordpress.com/2011/05/images1.jpeg"><img class="size-full wp-image-95" title="Stand Tall" src="https://aladywithalamp.files.wordpress.com/2011/05/images1.jpeg" alt="" width="225" height="225" /></a>
 
